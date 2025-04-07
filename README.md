@@ -11,6 +11,7 @@ This project implements document perspective correction using Hough Transform an
 - Evaluation using Structural Similarity Index (SSIM)
 - Visualization of each processing step
 
+
 ## Requirements
 
 - Python 3.6+
